@@ -1,3 +1,5 @@
+
+//finding maximum of 3 numbers
 void main() {
   int num1 = 10;
   int num2 = 25;
